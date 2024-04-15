@@ -1,21 +1,21 @@
+<br>
+
 <p align="center">
-  <a href="inkore.net" rel="noopener noreferrer">
-    <img width="256" src="https://inkore.net/wp-content/uploads/2024/01/iNKORE_Title_NoSub_512px.png" alt="iNKORE Logo">
+  <a href="https://inkore.net/" rel="noopener noreferrer">
+    <img width="256" src="https://github.com/iNKORE-Public/.github/blob/main/assets/iNKORE_Title_512px.png?raw=true" alt="iNKORE Logo">
   </a>
 </p>
 
-<h1 align="center">
-  iNKORE Studios
-</h1>
+---
 
-<p align="center">Feel free to have a look!</p>
-<p align="center">In the deepest core, mine the greatest ore.</p>
+<p align="right">In the deepest core, mine the greatest ore.</p>
+<p align="right">Feel free to have a look</p>
 
-# ⭕ About Org
+# ⭕ About
 
 - This is the core of iNKORE Studios, which is private to anyone outside our studios.
 
-- If you want to see our projects, please turn to [@iNKORE-Public](https://github.com/iNKORE-Public) instead.
+- If you want to see our projects, please turn to [@iNKORE-NET](https://github.com/iNKORE-NET) instead.
 
 # 💬 Contact us
 
