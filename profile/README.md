@@ -13,7 +13,7 @@
 
 # ⭕ About
 
-- This is the core of iNKORE Studios, which is private to anyone outside our studios.
+- This is the internal organization of iNKORE Studios, which is private to anyone outside our studios.
 
 - If you want to see our projects, please turn to [@iNKORE-NET](https://github.com/iNKORE-NET) instead.
 
